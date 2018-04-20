@@ -34,10 +34,11 @@ consume(2,2,add); // 4
 
 // ==== Closures ==== 
 // Question 1: Explain in your own words why the example below is a closure.
-   A closure is nested function is is after the myFunction.
-// Explanation: 
-    it is global
+   // Explanation: 
+A closure is a nested function is is after the myFunction. like the interagation mirror thats how i am trying to remember
 // Question 2: Given the example below, what scope is the external variable in?
+it is global
+
 
 let external = "I'm outside!";
 
